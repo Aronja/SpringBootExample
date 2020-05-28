@@ -1,0 +1,6 @@
+security:
+  permissions:
+    - role: manager
+      actions: [access-hello]
+    - role: test-user
+      actions: [access-hello]
